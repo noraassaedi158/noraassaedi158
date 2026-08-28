@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:FF4B91,100:6C63FF&height=220&section=header&text=NORA%20ASSAEDI&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B91,20:FF69B4,40:C850C0,60:7B61FF,80:4D8DFF,100:00BFFF&height=280&section=header&text=NORA%20ASSAEDI&font=Share%20Tech%20Mono&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student&descSize=18" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=500&size=20&duration=3000&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Computer+Science+Student+%F0%9F%92%BB;Always+learning%2C+always+building+%E2%9C%A8;Turning+ideas+into+working+software+%F0%9F%9A%80;Sometimes+overthinking+%E2%80%94+still+showing+up+%F0%9F%8C%99" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=500&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Just+a+girl+who+likes+making+things+with+code+%F0%9F%92%BB;Learning+by+building%2C+breaking%2C+and+fixing+things+%F0%9F%94%A7;Making+things+because+I+can+%F0%9F%8E%AE" alt="Typing SVG" />
 
 <br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/noraassaedi158)
 
 </div>
+<div align="center">
+### Computer Science Student
+### ✦ ─────────────── ✦
 
----
 
-### 👩🏻‍💻 Computer Science Student
+</div>
 
 I’m a CS student who enjoys building things that actually make sense (and sometimes things that don’t, but are fun to create anyway).
 I’m focused on strengthening my programming fundamentals and exploring how code turns into real apps and games — while still enjoying the process.
@@ -23,7 +23,7 @@ I’m focused on strengthening my programming fundamentals and exploring how cod
 
 <div align="center">
 
-### ✦ ───────────────────────── ✦
+### ✦ ─────────────── ✦
 
 </div>
 
@@ -59,38 +59,12 @@ I’m focused on strengthening my programming fundamentals and exploring how cod
 
 <div align="center">
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=noraassaedi158&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=8A2BE2&icon_color=FF4B91&text_color=777777" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noraassaedi158&layout=compact&hide_border=true&theme=transparent&title_color=8A2BE2&text_color=777777" height="170"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=noraassaedi158&hide_border=true&theme=transparent&ring=8A2BE2&fire=FF4B91&currStreakLabel=8A2BE2&sideLabels=777777&dates=777777" />
-
-</div>
-
----
-
-<div align="center">
-
-## 🌱 Currently Learning
-
-**Python** · **Java** · **Web Development** · **Git & GitHub** · **Game Development**
-
-</div>
-
----
-
-<div align="center">
-
 ### 🌙 About Me
 
 **Always learning, always building, sometimes overthinking, but still showing up.** 💻✨
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:8A2BE2,100:FF4B91&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,20:4D8DFF,40:6C63FF,60:8A2BE2,80:C850C0,100:FF4B91&height=150&section=footer" width="100%"/>
 
 </div>

@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:3B0A6B,100:FF2E93&height=280&section=header&text=NORA%20ASSAEDI&font=Share%20Tech%20Mono&fontSize=55&fontColor=00E5FF&fontAlignY=38&desc=Computer%20Science%20Student&descSize=18&descColor=F5F5F5" width="100%"/>
 
@@ -26,57 +26,61 @@
 
 <br>
 
-## 🏆 Favorite project
+## Favorite project
 
 <div align="center">
 
 <a href="https://github.com/noraassaedi158/calculater.py">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noraassaedi158&repo=calculater.py&theme=transparent&bg_color=0B0F1A&title_color=00E5FF&text_color=E8F1F5&icon_color=FF2E93&border_color=FF2E93&show_owner=false" width="60%"/>
+  <img src="https://img.shields.io/badge/%F0%9F%A7%AE%20PYTHON%20CALCULATOR-OPEN%20REPO-00E5FF?style=for-the-badge&labelColor=FF2E93" />
 </a>
-
-</div>
-
-**🧮 Python Calculator (PySide6)** is the project I'm proudest of. A desktop calculator with a clean MVC split (Model / View / Control) that evaluates expressions **without using `eval()`**.
-
-<details>
-<summary><b>👀 Peek inside (click me)</b></summary>
 
 <br>
 
-- 🧱 **Structure:** `CalculatorModel`, `CalculatorView`, `CalculatorControl`, `main`
-- 🔒 **Why no `eval()`:** safer, and I wanted to really understand how expressions get parsed
-- 🛠️ **Built with:** Python, PySide6
-- 🔗 [Open the repo](https://github.com/noraassaedi158/calculater.py)
+</div>
+<br>
+**Python Calculator (PySide6)** is the project I'm proudest of. A desktop calculator with a clean MVC split (Model / View / Control) that evaluates expressions **without using `eval()`**.
+
+<details>
+<summary><b> Peek inside (click me)</b></summary>
+
+<br>
+
+-  **Structure:** `CalculatorModel`, `CalculatorView`, `CalculatorControl`, `main`
+-  **Why no `eval()`:** safer, and I wanted to really understand how expressions get parsed
+-  **Built with:** Python, PySide6
+-   [Open the repo](https://github.com/noraassaedi158/calculater.py)
 
 </details>
 
 <br>
 
-## 🚀 More projects
+## More projects
 
 <table align="center">
 <tr>
 <td align="center" width="50%">
 
 <a href="https://github.com/noraassaedi158/REFACTORING-CINEMA">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=noraassaedi158&repo=REFACTORING-CINEMA&theme=transparent&bg_color=0B0F1A&title_color=00E5FF&text_color=E8F1F5&icon_color=7C3AED&border_color=7C3AED&show_owner=false" />
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AC%20CINEMA-Management%20Refactor-7C3AED?style=for-the-badge&labelColor=0B0F1A" />
 </a>
 
+<br><br>
+
 🎬 **Cinema Management Refactor**
-Java refactor, now adding a real database. 🚧 *in progress*
+Java refactor, now adding a real database. *in progress*
 
 </td>
 <td align="center" width="50%">
 
-<!-- Replace YOUR-TEAM-REPO-LINK with the real Liaqaty repo URL (or delete this whole cell) -->
+
 <a href="YOUR-TEAM-REPO-LINK">
   <img src="https://img.shields.io/badge/%F0%9F%92%AA%20LIAQATY-Fitness%20Website-FF2E93?style=for-the-badge&labelColor=0B0F1A" />
 </a>
 
 <br><br>
 
-🏋️ **Liaqaty (لياقتي)**
-Team fitness website: Spring Boot, MySQL, workout diary and badges. 👯 *team project*
+**Liaqaty (لياقتي)**
+Team fitness website: Spring Boot, MySQL, workout diary and badges. *team project*
 
 </td>
 </tr>
@@ -84,7 +88,7 @@ Team fitness website: Spring Boot, MySQL, workout diary and badges. 👯 *team p
 
 <br>
 
-## 🧰 Tech stack
+## Tech stack
 
 <div align="center">
 
@@ -93,7 +97,7 @@ Team fitness website: Spring Boot, MySQL, workout diary and badges. 👯 *team p
 </div>
 
 <details>
-<summary><b>📚 Concepts I work with</b></summary>
+<summary><b>I work with</b></summary>
 
 <br>
 
@@ -111,23 +115,24 @@ Team fitness website: Spring Boot, MySQL, workout diary and badges. 👯 *team p
 
 <br>
 
-## 🌱 Currently leveling up
+## Currently learning
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring%20Boot-00E5FF?style=for-the-badge&logo=springboot&logoColor=0B0F1A&labelColor=0B0F1A"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-00E5FF?style=for-the-badge&logo=springboot&logoColor=00E5FF&labelColor=0B0F1A"/>
   <img src="https://img.shields.io/badge/JDBC-7C3AED?style=for-the-badge&labelColor=0B0F1A"/>
   <img src="https://img.shields.io/badge/JavaScript-FF2E93?style=for-the-badge&logo=javascript&logoColor=FF2E93&labelColor=0B0F1A"/>
   <img src="https://img.shields.io/badge/PHP-00E5FF?style=for-the-badge&logo=php&logoColor=00E5FF&labelColor=0B0F1A"/>
 </p>
-
 <br>
 
-## 📊 GitHub stats
+## Activity
 
 <div align="center">
+<img src="https://ghchart.rshah.org/FF2E93/noraassaedi158" width="90%" alt="contribution graph" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=noraassaedi158&show_icons=true&hide_border=false&bg_color=0B0F1A&title_color=00E5FF&text_color=E8F1F5&icon_color=FF2E93&border_color=7C3AED" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noraassaedi158&layout=compact&bg_color=0B0F1A&title_color=00E5FF&text_color=E8F1F5&border_color=7C3AED" />
+<br><br>
+
+<img src="https://img.shields.io/github/followers/noraassaedi158?style=for-the-badge&labelColor=0B0F1A&color=00E5FF&logo=github" />
 
 </div>
 
@@ -135,7 +140,7 @@ Team fitness website: Spring Boot, MySQL, workout diary and badges. 👯 *team p
 
 <div align="center">
 
-**Always learning, always building, sometimes overthinking, but still showing up.** 💻🖤💙
+**I love learning, coding and coffee** 💻
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2E93,50:3B0A6B,100:0B0F1A&height=140&section=footer" width="100%"/>
 
